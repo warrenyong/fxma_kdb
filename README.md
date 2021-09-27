@@ -4,8 +4,10 @@ FX Moving Average in kdb+
 1) Open cmd
 
 2) Ensure you are in directory with FX files and fxma script (this directory)
+
 	a. In windows you can navigate to directory using 
 		e.g. cd C:\Users\Warren Yong\Desktop\fxma
+	
 	b.Check schema of csv file to have 3 columns DATE, OPEN and CLOSE prices
 
 3) Type the following in the command line:
